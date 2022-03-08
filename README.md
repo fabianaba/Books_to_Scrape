@@ -27,5 +27,5 @@ Webpages for each category as follow:
 Snip of the .csv file:
 
 <div id="header" align="center">
-  <img src="https://github.com/fabianaba/Books_to_Scrape/blob/master/csv.png" width="200"/>
+  <img src="https://github.com/fabianaba/Books_to_Scrape/blob/master/csv.PNG" width="600"/>
 </div>
