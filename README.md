@@ -3,6 +3,8 @@
 
 The learning objective of this exercise is to practice Python programming language using Beautiful Soup library to "scrape" books information from the website https://books.toscrape.com
 
+![Bookshop](https://github.com/fabianaba/Books_to_Scrape/blob/main/bookshop.png)
+
 ## Deliverable result: 
 Must be a '.csv' file; table with 6 columns named as title, price, rate, availability in stock, category, and date/time of scrapping.
 
