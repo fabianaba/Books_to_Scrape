@@ -1,5 +1,5 @@
 # Books_to_Scrape
-[Scrapping Techniques using Regular Expressions (Regex)] 
+[Scrapping Techniques using Regular Expressions (Regex) and Beautiful Soup library] 
 
 The learning objective of this exercise is to practice Python programming language using Beautiful Soup library to "scrape" books information from the website https://books.toscrape.com
 
